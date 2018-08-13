@@ -55,7 +55,7 @@ function getTable(list) {
     <table className="table table-striped">
       <thead>
         <tr>
-          <th onClick={orderTable} className="sort" >Name</th>
+          <th onClick={orderTable} className="sort" >Name {desc ? '▲' : '▼' }</th>
           <th>Birthday</th>
           <th>Birth Place</th>
           <th>Death Day</th>
