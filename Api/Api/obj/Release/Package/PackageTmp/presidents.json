@@ -1,0 +1,310 @@
+[
+    {
+        "President": "George Washington",
+        "Birthday": "1732-2-22",
+        "BirthPlace": "Westmoreland Co., Va.",
+        "DeathDay": "1799-12-14",
+        "DeathPlace": "Mount Vernon, Va."
+    },
+    {
+        "President": "John Adams",
+        "Birthday": "1735-10-30",
+        "BirthPlace": "Quincy, Mass.",
+        "DeathDay": "1826-7-4",
+        "DeathPlace": "Quincy, Mass."
+    },
+    {
+        "President": "Thomas Jefferson",
+        "Birthday": "1743-4-13",
+        "BirthPlace": "Albemarle Co., Va.",
+        "DeathDay": "1826-7-4",
+        "DeathPlace": "Albemarle Co., Va."
+    },
+    {
+        "President": "James Madison",
+        "Birthday": "1751-3-16",
+        "BirthPlace": "Port Conway, Va.",
+        "DeathDay": "1836-6-28",
+        "DeathPlace": "Orange Co., Va."
+    },
+    {
+        "President": "James Monroe",
+        "Birthday": "1758-4-28",
+        "BirthPlace": "Westmoreland Co., Va.",
+        "DeathDay": "1831-7-4",
+        "DeathPlace": "New York, New York"
+    },
+    {
+        "President": "John Quincy Adams",
+        "Birthday": "1767-7-11",
+        "BirthPlace": "Quincy, Mass.",
+        "DeathDay": "1848-2-23",
+        "DeathPlace": "Washington, D.C."
+    },
+    {
+        "President": "Andrew Jackson",
+        "Birthday": "1767-3-15",
+        "BirthPlace": "Waxhaws, No./So. Carolina",
+        "DeathDay": "1845-6-8",
+        "DeathPlace": "Nashville, Tennessee"
+    },
+    {
+        "President": "Martin Van Buren",
+        "Birthday": "1782-12-5",
+        "BirthPlace": "Kinderhook, New York",
+        "DeathDay": "1862-7-24",
+        "DeathPlace": "Kinderhook, New York"
+    },
+    {
+        "President": "William Henry Harrison",
+        "Birthday": "1773-2-9",
+        "BirthPlace": "Charles City Co., Va.",
+        "DeathDay": "1841-4-4",
+        "DeathPlace": "Washington, D.C."
+    },
+    {
+        "President": "John Tyler",
+        "Birthday": "1790-3-29",
+        "BirthPlace": "Charles City Co., Va.",
+        "DeathDay": "1862-1-18",
+        "DeathPlace": "Richmond, Va."
+    },
+    {
+        "President": "James K. Polk",
+        "Birthday": "1795-11-2",
+        "BirthPlace": "Mecklenburg Co., N.C.",
+        "DeathDay": "1849-6-15",
+        "DeathPlace": "Nashville, Tennessee"
+    },
+    {
+        "President": "Zachary Taylor",
+        "Birthday": "1784-11-24",
+        "BirthPlace": "Orange County, Va.",
+        "DeathDay": "1850-7-9",
+        "DeathPlace": "Washington, D.C"
+    },
+    {
+        "President": "Millard Fillmore",
+        "Birthday": "1800-1-7",
+        "BirthPlace": "Cayuga Co., New York",
+        "DeathDay": "1874-3-8",
+        "DeathPlace": "Buffalo, New York"
+    },
+    {
+        "President": "Franklin Pierce",
+        "Birthday": "1804-11-23",
+        "BirthPlace": "Hillsborough, N.H.",
+        "DeathDay": "1869-10-8",
+        "DeathPlace": "Concord, New Hamp."
+    },
+    {
+        "President": "James Buchanan",
+        "Birthday": "1791-4-23",
+        "BirthPlace": "Cove Gap, Pa.",
+        "DeathDay": "1868-6-1",
+        "DeathPlace": "Lancaster, Pa."
+    },
+    {
+        "President": "Abraham Lincoln",
+        "Birthday": "1809-2-12",
+        "BirthPlace": "LaRue Co., Kentucky",
+        "DeathDay": "1865-4-15",
+        "DeathPlace": "Washington, D.C."
+    },
+    {
+        "President": "Andrew Johnson",
+        "Birthday": "1808-12-29",
+        "BirthPlace": "Raleigh, North Carolina",
+        "DeathDay": "1875-7-31",
+        "DeathPlace": "Elizabethton, Tenn."
+    },
+    {
+        "President": "Ulysses S. Grant",
+        "Birthday": "1822-4-27",
+        "BirthPlace": "Point Pleasant, Ohio",
+        "DeathDay": "1885-7-23",
+        "DeathPlace": "Wilton, New York"
+    },
+    {
+        "President": "Rutherford B. Hayes",
+        "Birthday": "1822-10-4",
+        "BirthPlace": "Delaware, Ohio",
+        "DeathDay": "1893-1-17",
+        "DeathPlace": "Fremont, Ohio"
+    },
+    {
+        "President": "James A. Garfield",
+        "Birthday": "1831-11-19",
+        "BirthPlace": "Cuyahoga Co., Ohio",
+        "DeathDay": "1881-9-19",
+        "DeathPlace": "Elberon, New Jersey"
+    },
+    {
+        "President": "Chester Arthur",
+        "Birthday": "1829-10-5",
+        "BirthPlace": "Fairfield, Vermont",
+        "DeathDay": "1886-11-18",
+        "DeathPlace": "New York, New York"
+    },
+    {
+        "President": "Grover Cleveland",
+        "Birthday": "1837-3-18",
+        "BirthPlace": "Caldwell, New Jersey",
+        "DeathDay": "1908-6-24",
+        "DeathPlace": "Princeton, New Jersey"
+    },
+    {
+        "President": "Benjamin Harrison",
+        "Birthday": "1833-8-20",
+        "BirthPlace": "North Bend, Ohio",
+        "DeathDay": "1901-3-13",
+        "DeathPlace": "Indianapolis, Indiana"
+    },
+    {
+        "President": "William McKinley",
+        "Birthday": "1843-1-29",
+        "BirthPlace": "Niles, Ohio",
+        "DeathDay": "1901-9-14",
+        "DeathPlace": "Buffalo, New York"
+    },
+    {
+        "President": "Theodore Roosevelt",
+        "Birthday": "1858-10-27",
+        "BirthPlace": "New York, New York",
+        "DeathDay": "1919-1-6",
+        "DeathPlace": "Oyster Bay, New York"
+    },
+    {
+        "President": "William Howard Taft",
+        "Birthday": "1857-9-15",
+        "BirthPlace": "Cincinnati, Ohio",
+        "DeathDay": "1930-3-8",
+        "DeathPlace": "Washington, D.C."
+    },
+    {
+        "President": "Woodrow Wilson",
+        "Birthday": "1856-12-28",
+        "BirthPlace": "Staunton, Virginia",
+        "DeathDay": "1924-2-3",
+        "DeathPlace": "Washington, D.C."
+    },
+    {
+        "President": "Warren G. Harding",
+        "Birthday": "1865-11-2",
+        "BirthPlace": "Morrow County, Ohio",
+        "DeathDay": "1923-8-2",
+        "DeathPlace": "San Francisco, Cal."
+    },
+    {
+        "President": "Calvin Coolidge",
+        "Birthday": "1872-7-4",
+        "BirthPlace": "Plymouth, Vermont",
+        "DeathDay": "1933-1-5",
+        "DeathPlace": "Northampton, Mass."
+    },
+    {
+        "President": "Herbert Hoover",
+        "Birthday": "1874-8-10",
+        "BirthPlace": "West Branch, Iowa",
+        "DeathDay": "1964-10-20",
+        "DeathPlace": "New York, New York"
+    },
+    {
+        "President": "Franklin Roosevelt",
+        "Birthday": "1882-1-30",
+        "BirthPlace": "Hyde Park, New York",
+        "DeathDay": "1945-4-12",
+        "DeathPlace": "Warm Springs, Georgia"
+    },
+    {
+        "President": "Harry S. Truman",
+        "Birthday": "1884-5-8",
+        "BirthPlace": "Lamar, Missouri",
+        "DeathDay": "1972-12-26",
+        "DeathPlace": "Kansas City, Missouri"
+    },
+    {
+        "President": "Dwight Eisenhower",
+        "Birthday": "1890-10-14",
+        "BirthPlace": "Denison, Texas",
+        "DeathDay": "1969-3-28",
+        "DeathPlace": "Washington, D.C."
+    },
+    {
+        "President": "John F. Kennedy",
+        "Birthday": "1917-5-29",
+        "BirthPlace": "Brookline, Mass.",
+        "DeathDay": "1963-11-22",
+        "DeathPlace": "Dallas, Texas"
+    },
+    {
+        "President": "Lyndon B. Johnson",
+        "Birthday": "1908-8-27",
+        "BirthPlace": "Gillespie Co., Texas",
+        "DeathDay": "1973-1-22",
+        "DeathPlace": "Gillespie Co., Texas"
+    },
+    {
+        "President": "Richard Nixon",
+        "Birthday": "1913-1-9",
+        "BirthPlace": "Yorba Linda, Cal.",
+        "DeathDay": "1994-4-22",
+        "DeathPlace": "New York, New York"
+    },
+    {
+        "President": "Gerald Ford",
+        "Birthday": "1913-7-14",
+        "BirthPlace": "Omaha, Nebraska",
+        "DeathDay": "2006-12-26",
+        "DeathPlace": "Rancho Mirage, Cal."
+    },
+    {
+        "President": "Jimmy Carter",
+        "Birthday": "1924-10-1",
+        "BirthPlace": "Plains, Georgia",
+        "DeathDay": "",
+        "DeathPlace": ""
+    },
+    {
+        "President": "Ronald Reagan",
+        "Birthday": "1911-2-6",
+        "BirthPlace": "Tampico, Illinois",
+        "DeathDay": "2004-6-5",
+        "DeathPlace": "Los Angeles, Cal."
+    },
+    {
+        "President": "George Bush",
+        "Birthday": "1924-6-12",
+        "BirthPlace": "Milton, Mass.",
+        "DeathDay": "",
+        "DeathPlace": ""
+    },
+    {
+        "President": "Bill Clinton",
+        "Birthday": "1946-8-19",
+        "BirthPlace": "Hope, Arkansas",
+        "DeathDay": "",
+        "DeathPlace": ""
+    },
+    {
+        "President": "George W. Bush",
+        "Birthday": "1646-7-6",
+        "BirthPlace": "New Haven, Conn.",
+        "DeathDay": "",
+        "DeathPlace": ""
+    },
+    {
+        "President": "Barack Obama",
+        "Birthday": "1961-8-4",
+        "BirthPlace": "Honolulu, Hawaii",
+        "DeathDay": "",
+        "DeathPlace": ""
+    },
+    {
+        "President": "Donald Trump",
+        "Birthday": "1946-6-14",
+        "BirthPlace": "New York, New York",
+        "DeathDay": "",
+        "DeathPlace": ""
+    }
+]

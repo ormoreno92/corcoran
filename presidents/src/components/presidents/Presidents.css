@@ -1,0 +1,11 @@
+.App-intro {
+  font-size: large;
+}
+
+.sort {
+  cursor: pointer;
+}
+
+thead th, .center {
+  text-align: center;
+}
