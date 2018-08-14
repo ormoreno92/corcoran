@@ -1,7 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using Api.Logic;
 using System.Web.Http;
+using Unity;
+using Unity.Lifetime;
 
 namespace Api
 {
@@ -9,11 +9,11 @@ namespace Api
     {
         public static void Register(HttpConfiguration config)
         {
-            // Web API configuration and services
+            var container = new UnityContainer();
+            container.RegisterType<IPresident, President>(new HierarchicalLifetimeManager());
+            config.DependencyResolver = new UnityResolver(container);
             config.EnableCors();
-            // Web API routes
             config.MapHttpAttributeRoutes();
-
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",

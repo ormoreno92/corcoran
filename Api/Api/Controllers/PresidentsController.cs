@@ -1,26 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
+﻿using System.Collections.Generic;
 using System.Web.Http;
-using System.Web;
-using System.IO;
-using Newtonsoft.Json;
 using Api.Models;
 using System.Web.Http.Cors;
+using Api.Logic;
 
 namespace Api.App_Start
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class PresidentsController : ApiController
     {
-        [EnableCors(origins: "*", headers: "*", methods: "*")]
+        private IPresident _pr;
+
+        public PresidentsController(IPresident president)
+        {
+            _pr = president;
+        }
+
         public List<Presidents> Get(bool desc = false)
         {
-            var presidentsContent = File.ReadAllText(HttpContext.Current.Request.MapPath("~\\presidents.json"));
-            var presidents = JsonConvert.DeserializeObject<List<Presidents>>(presidentsContent);
-            presidents = desc ? presidents.OrderByDescending(x => x.President).ToList() : presidents.OrderBy(x => x.President).ToList();
-            return presidents;
+            return _pr.GetPresidents(desc);
         }
     }
 }
